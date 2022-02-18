@@ -1,7 +1,17 @@
 
 
 /* BG */
+html, body {
+    height: 100%;
+    margin: 0;
+}
 
+.gif-container {
+  background: url("fireworks-firework.gif") center;
+  background-size: cover;
+
+  height: 100%;
+}
 	body.is-preload #bg:before {
 		background-color: transparent;
 	}
