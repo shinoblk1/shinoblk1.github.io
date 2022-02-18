@@ -7,7 +7,7 @@ html, body {
 }
 
 .gif-container {
-  background: url("fireworks-firework.gif") center;
+  background: ("fireworks-firework.gif") center;
   background-size: cover;
 
   height: 100%;
