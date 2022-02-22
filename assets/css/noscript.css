@@ -6,17 +6,13 @@ html, body {
     margin: 0;
 }
 
-.gif-container {
-  background: ("download.jpg") center;
-  background-size: cover;
 
-  height: 100%;
 }
-	body.is-preload #bg:before {
-		background-color: pink;
+	
 	}
 
 /* Header */
+
 
 	body.is-preload #header {
 		-moz-filter: none;
