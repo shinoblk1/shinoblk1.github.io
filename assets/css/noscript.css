@@ -13,7 +13,7 @@ html, body {
   height: 100%;
 }
 	body.is-preload #bg:before {
-		background-color: transparent;
+		background-color: pink;
 	}
 
 /* Header */
